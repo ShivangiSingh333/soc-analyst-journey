@@ -1,0 +1,77 @@
+🚨 SOC Analyst Learning Journey - Day 3 & 4 Notes
+
+✅ **Day 3: IP Addressing & Subnetting**
+
+🌐 What is an IP Address?
+
+An (IP address)is like the home address of a device on a network. Just like a letter needs an address to reach the correct house, data packets need IP addresses to reach the right computer.
+
+Example:-
+If you're sending a message on WhatsApp, your message is broken into packets and sent from your device's IP address to your friend’s IP address. If your IP is wrong, it’s like sending a letter to the wrong house!
+
+### 📘 Types of IP Addresses:
+
+* IPv4:- 32-bit (e.g., 192.168.1.1)
+* IPv6:- 128-bit (e.g., 2001:0db8:85a3:0000:0000:8a2e:0370:7334)
+
+### 📘 Types Based on Usage:
+
+* Private IP:- Used inside a private network (like your home WiFi)
+* Public IP:-Used on the internet (your network’s visible address)
+
+### 🧮 What is Subnetting?
+
+**Subnetting breaks a big network into smaller networks. It helps in better security, less traffic, and efficient IP management.
+
+Real Life Analogy:-
+Think of a college hostel with 4 floors (subnets). All rooms have unique room numbers (IP addresses), but each floor is managed separately. This reduces confusion and makes management easier.
+
+### 📌 Important Terms:
+
+* Subnet Mask:** Helps identify the network and host part of an IP.
+* CIDR Notation:** Like 192.168.1.0/24 → Means subnet mask is 255.255.255.0
+
+---
+
+## ✅ Day 4: What is a SOC?
+
+### 🏢 SOC (Security Operations Center)
+
+A SOC is a centralized place where a team monitors, detects, prevents, and responds to cybersecurity threats in real time.
+
+**Real-Life Analogy:
+Imagine a SOC like a CCTV control room in a shopping mall. The security team watches all camera feeds and raises alarms when something suspicious is noticed — just like cybersecurity professionals do with network activity.
+
+### 🔧 What Happens Inside a SOC?
+
+* 24/7 Monitoring of logs, network traffic, endpoints
+* Threat Detection using tools like SIEM (e.g., Splunk, QRadar)
+* Incident Response – Act quickly when something bad happens
+* Vulnerability Management – Finding weak spots in systems before attackers do
+
+### 👨‍💻 SOC Team Structure:
+
+1. Level 1 Analyst (L1): First line of defense, monitors alerts, triages issues.
+2. Level 2 Analyst (L2): Deep dives into alerts, runs investigations.
+3. Level 3 Analyst (L3): Threat hunting, advanced analysis, and remediation.
+4. SOC Manager:** Oversees everything, coordinates between teams.
+
+### 🔍 Key Tools Used:
+
+* SIEM Tools: Splunk, IBM QRadar, ELK Stack
+* EDR: Crowdstrike, SentinelOne
+* Firewall/IDS/IPS: Palo Alto, Snort, Suricata
+
+### 📈 Why is SOC Important?
+
+* Detects cyber threats in real-time
+* Protects sensitive data
+* Reduces downtime and financial loss
+
+---
+
+📎 **Coming Up Next:** Threat Intelligence and Cyber Kill Chain (Day 5 & 6)
+
+🔗 [View on GitHub](https://github.com/Choti62/soc-analyst-journey)
+
+#CyberSecurity #SOCAnalyst #IPaddressing #Subnetting #SIEM #SOC #ThreatDetection #InfoSec #LearningJourney #GitHub
