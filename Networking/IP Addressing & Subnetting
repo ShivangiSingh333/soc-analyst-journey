@@ -1,13 +1,15 @@
 🚨 SOC Analyst Learning Journey - Day 3 & 4 Notes
 
-✅ **Day 3: IP Addressing & Subnetting**
+✅ Day 3: IP Addressing & Subnetting
 
 🌐 What is an IP Address?
 
-An (IP address)is like the home address of a device on a network. Just like a letter needs an address to reach the correct house, data packets need IP addresses to reach the right computer.
+An (IP address)is like the home address of a device on a network. Just like a letter needs an address to reach the correct house, 
+data packets need IP addresses to reach the right computer.
 
 Example:-
-If you're sending a message on WhatsApp, your message is broken into packets and sent from your device's IP address to your friend’s IP address. If your IP is wrong, it’s like sending a letter to the wrong house!
+If you're sending a message on WhatsApp, your message is broken into packets and sent from your device's IP address to your friend’s IP address.
+If your IP is wrong, it’s like sending a letter to the wrong house!
 
 ### 📘 Types of IP Addresses:
 
@@ -24,7 +26,9 @@ If you're sending a message on WhatsApp, your message is broken into packets and
 **Subnetting breaks a big network into smaller networks. It helps in better security, less traffic, and efficient IP management.
 
 Real Life Analogy:-
-Think of a college hostel with 4 floors (subnets). All rooms have unique room numbers (IP addresses), but each floor is managed separately. This reduces confusion and makes management easier.
+Think of a college hostel with 4 floors (subnets). All rooms have unique room numbers (IP addresses), 
+
+but each floor is managed separately. This reduces confusion and makes management easier.
 
 ### 📌 Important Terms:
 
@@ -40,7 +44,8 @@ Think of a college hostel with 4 floors (subnets). All rooms have unique room nu
 A SOC is a centralized place where a team monitors, detects, prevents, and responds to cybersecurity threats in real time.
 
 **Real-Life Analogy:
-Imagine a SOC like a CCTV control room in a shopping mall. The security team watches all camera feeds and raises alarms when something suspicious is noticed — just like cybersecurity professionals do with network activity.
+Imagine a SOC like a CCTV control room in a shopping mall. The security team watches all camera feeds and raises 
+alarms when something suspicious is noticed — just like cybersecurity professionals do with network activity.
 
 ### 🔧 What Happens Inside a SOC?
 
